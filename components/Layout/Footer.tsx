@@ -44,7 +44,7 @@ const Footer = () => (
           />
           <IconButton
             as="a"
-            href="https://www.linkedin.com/in/pouria-sharifi-098397161/"
+            href="https://www.linkedin.com/in/pouria-sharifi"
             aria-label="Linkedin"
             icon={<FaLinkedin fontSize="20px" />}
           />
